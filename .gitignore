@@ -1,0 +1,82 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.eggs/
+*.egg
+.env
+.env.local
+Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.development.local
+.env.test.local
+.env.production.local
+IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.classpath
+.settings/
+Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+Logs
+logs/
+*.log
+Bitcoin 2 related
+.bitcoin2/
+*.dat
+debug.log
+db.log
+bitcoin2.conf
+Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+Testing
+.coverage
+.pytest_cache/
+htmlcov/
+Environment variables
+.env
+.env.local
+.env.*.local
+Local development configurations
+config/settings.local.py
+config/settings.dev.py
+Static files
+/static/js/bundle.js
+/static/js/bundle.js.map
+/static/js/bundle.js.LICENSE.txt
+Database
+*.sqlite3
+*.db
